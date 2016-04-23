@@ -1,0 +1,9 @@
+Bundle-Description: Example
+
+Export-Package:  \
+	dstest.api
+
+Private-Package:  \
+	dstest.provider
+
+-includeresource: {readme.md}
